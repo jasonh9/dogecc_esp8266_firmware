@@ -1,6 +1,7 @@
 # **Dogecc ESP8266 Firmware** #
+Firmware toolchain to create your custom esp8266 firmware, we'll be using the nodemcu development version of the esp8266.
 
-firmware toolchain to create your custom esp8266 firmware, we'll be using the nodemcu development version of the esp8266.
+> Note: if you're too lazy to go through this process just download a prebuilt binary from the release page or [download now](https://github.com/jasonh9/dogecc_esp8266_firmware/releases/download/v1.0/nodemcu_float_master_20190622-0208.bin)
 
 
 ## **Building the firmware with docker**
