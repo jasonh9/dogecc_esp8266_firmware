@@ -1,0 +1,6 @@
+python
+import sys
+sys.path.insert(0, '/home/johny/src/esp-toolchains/esp8266-linux-x86_64-20181106.0/share/gcc-4.8.5/python')
+from libstdcxx.v6.printers import register_libstdcxx_printers
+register_libstdcxx_printers (None)
+end
